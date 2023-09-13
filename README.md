@@ -1,12 +1,12 @@
 # Findtrend
 
-![Hero section](images/hero.png)
-![Tabs section](images/tabs.png)
-![Stats section](images/stats.png)
-![Stats section](images/stats-2.png)
-![Platform section](images.png)
-![Pricing section](images/pricing.png)
-![Newsletter section](images/newsletter.png)
+![Hero section](hero.png)
+![Tabs section](tabs.png)
+![Stats section](stats.png)
+![Stats section](stats-2.png)
+![Platform section](platform.png)
+![Pricing section](pricing.png)
+![Newsletter section](newsletter.png)
 
 ### What I Learned
 
