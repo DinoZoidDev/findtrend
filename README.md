@@ -1,12 +1,12 @@
 # Findtrend
 
-![Hero section](assets/images/github/hero.png)
-![Tabs section](assets/images/github/tabs.png)
-![Stats section](assets/images/github/stats.png)
-![Stats section](assets/images/github/stats-2.png)
-![Platform section](assets/images/github/platform.png)
-![Pricing section](assets/images/github/pricing.png)
-![Newsletter section](assets/images/github/newsletter.png)
+![Hero section](docs/assets/images/github/hero.png)
+![Tabs section](docs/assets/images/github/tabs.png)
+![Stats section](docs/assets/images/github/stats.png)
+![Stats section](docs/assets/images/github/stats-2.png)
+![Platform section](docs/assets/images/github/platform.png)
+![Pricing section](docs/assets/images/github/pricing.png)
+![Newsletter section](docs/assets/images/github/newsletter.png)
 
 ### What I Learned
 
