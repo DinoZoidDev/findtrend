@@ -16,4 +16,4 @@
 - How to recreate a Figma design in website code
 - How to create a three part navbar in two ways
 
-[Figma design](<https://www.figma.com/file/AzKOk465IeVY5Kjx7GgVKc/Findtrend-Webflow-(Free-Code)-(Community)>)
+[Figma design](<https://www.figma.com/file/AzKOk465IeVY5Kjx7GgVKc/Findtrend-Webflow-(Free-Code)-(Community)?node-id=0%3A1&mode=dev>)
