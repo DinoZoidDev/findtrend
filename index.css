@@ -170,7 +170,6 @@ body[data-mobile-menu="opened"] #closed {
 body[data-mobile-menu="opened"] {
   overflow-y: hidden;
   overscroll-behavior: contain;
-  pointer-events: none;
 }
 
 body[data-mobile-menu="opened"] header {
